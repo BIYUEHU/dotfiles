@@ -1,0 +1,12 @@
+[user]
+	name = Hotaru
+	email = biyuehuya@gmail.com
+[safe]
+	directory = *
+[http]
+	sslVerify = true
+	proxy = http://127.0.0.1:7890
+[core]
+	longpaths = true
+[https]
+	proxy = https://127.0.0.1:7890
